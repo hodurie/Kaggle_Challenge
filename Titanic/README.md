@@ -1,0 +1,8 @@
+# Titanic
+
+## Data
+[타이타닉 데이터](https://www.kaggle.com/c/titanic/overview)
+
+## Description
+Titanic은 2200여명의 승선자 중 1500여명이 사망한 기록을 담은 데이터입니다.  
+탑승객의 이름, 성별, 나이 등을 기록을 통해 0과 1로 라벨링 돼 있는 생존 여부를 맞추는 것 입니다.
